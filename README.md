@@ -1,1 +1,1 @@
-# RGB_Clock
+# Color Changing Animated Clock
